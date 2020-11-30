@@ -1,0 +1,92 @@
+.page {
+    margin: 20px auto;
+    padding: 20px;
+    border: 7px solid rgba(0, 0, 0, 0.65);
+    width: 80%;
+    max-width: 900px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+* {
+    font-family: linotype-didot-headline, serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#linkedin {
+    color: #0072B1
+}
+#facebook {
+    color: #3B5998
+}
+#twitter {
+    color: #00ACEE
+}
+#instagram {
+    background: -webkit-linear-gradient(-45deg, #515BD4, #8134AF, #DD2A7B, #FEDA77, #F58529);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+#add {
+    padding: 30rem;
+}
+.name {
+    margin: 1rem 0rem 0rem;
+}
+#html5 {
+    background: -webkit-linear-gradient(180deg, #bf4f29 50%, #ce642c 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+#css3 {
+    background: -webkit-linear-gradient(180deg, #3457a3 50%, #5990cf 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+#js {
+    background: #EFDA30;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+#node {
+    background: -webkit-linear-gradient(-90deg, #000000 58%, #93C230 42%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.centext {
+    text-align: center;
+}
+#mainNav .nav-link:hover {
+    background: rgba(177, 171, 171, 0.226)
+}
+.navbar.scrolled {
+    background: #3335b69d;
+    transition: background 300ms;
+}
+.navbar-brand {
+    font-family: professor,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+a.navbar-brand {
+    font-size: 2rem;
+}
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0));
+}
+hr.style-four {
+    height: 12px;
+    border: 0;
+    /* background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)); */
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+hr.style-three {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+}
