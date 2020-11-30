@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/mskg5x14zcmo/repositories/reecewalter/
-    - /bin/cp -R images $DEPLOYPATH
